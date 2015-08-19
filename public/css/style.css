@@ -224,10 +224,11 @@ body.logged-out {
 .entry .content img {
   display: block;
   max-width: 100%;
+  height: auto;
 }
 
 .entry .meta {
-  text-decoration: none;  
+  text-decoration: none;
   color: #999;
   font-size: 12px;
 }
