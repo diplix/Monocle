@@ -1,4 +1,4 @@
-<?
+<?php
 if($this->syndication->syndication_url) {
   $domain = parse_url($this->syndication->syndication_url, PHP_URL_HOST);
   switch($domain) {
