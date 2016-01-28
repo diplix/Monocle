@@ -8,7 +8,7 @@ if($this->syndication->syndication_url) {
     case 'facebook.com':
       $icon = 'facebook';
       break;
-    case 'instagram.com':
+    case 'www.instagram.com':
       $icon = 'instagram';
       break;
     case 'medium.com':
